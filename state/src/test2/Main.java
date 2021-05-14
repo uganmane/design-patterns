@@ -2,7 +2,8 @@ package test2;
 
 
 /**
- * TODO
+ * 整一个上下文对象，聚合状态对象。
+ * 上下文对象的方法，改变状态。
  *
  * @author 李响
  * @email zoroikuzo@qq.com
